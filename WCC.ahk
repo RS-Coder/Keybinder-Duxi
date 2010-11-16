@@ -1026,6 +1026,3 @@ Else
 
 Return
 ;====================Testbereich====================
-Numpad8::
-SendInput t Hanni Stinkt {Enter}
-Return
