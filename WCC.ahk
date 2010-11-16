@@ -1026,3 +1026,9 @@ Else
 
 Return
 ;====================Testbereich====================
+sdfwef
+efwds
+esfsf
+t::
+SendInput test{Enter}
+Return
